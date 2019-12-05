@@ -1,11 +1,17 @@
 <!-- Logo -->
 <p align="center"><img width="200px" draggable="false" src="https://cdn.discordapp.com/attachments/464062103599185920/652162737752899596/swift.jpg"></p>
 
+<!-- Badges -->
+<p align="center">
+  <a href="#"><img draggable="false" src="https://img.shields.io/github/package-json/v/discordjs/discord.js?label=discord.js&style=for-the-badge"></a>
+  <a href="#"><img draggable="false" src="https://img.shields.io/github/license/Interittus13/swiftbot?style=for-the-badge"></a>
+  <br>
+</p>
 
 <!-- Invite Button -->
 <a href="https://discordapp.com/oauth2/authorize?client_id=346999806624923658&permissions=1544023286&scope=bot" title="Invite the bot!">
   <p align="center">
-    <img width="200px" draggable="false" src="https://raw.githubusercontent.com/PieBotDevs/enlister/master/branding/img/invite2.png">
+    <img width="200px" draggable="false" src="https://cdn.discordapp.com/attachments/464062103599185920/652175646646206495/invite.png">
   </p>
 </a>
 
@@ -38,5 +44,5 @@
 <hr>
 
 <p align="center">
-  <b>Bot created by _Interittus13_#1504.</b>
+  <b>Bot by _Interittus13_#1504.</b>
 </p>
