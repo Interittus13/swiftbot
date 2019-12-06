@@ -40,7 +40,7 @@
 <h2 align="center">Need Help?</h2>
 
 <h3 align="center">Discord</h3>
-<p align="center"><a href="https://discord.gg/" title="Join the Discord Server.">discord.gg/</a> or _Interittus13_#1504</p>
+<p align="center"><a href="https://discord.gg" title="Join the Discord Server.">discord.gg/</a> or _Interittus13_#1504</p>
 <hr>
 
 <p align="center">
