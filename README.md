@@ -1,48 +1,36 @@
-<!-- Logo -->
-<p align="center"><img width="200px" draggable="false" src="https://cdn.discordapp.com/attachments/464062103599185920/652162737752899596/swift.jpg"></p>
+<p align="center"><img width="300px" draggable="false" src="assets/public/swift_profile.png"></p>
 
-<!-- Badges -->
 <p align="center">
   <a href="#"><img draggable="false" src="https://img.shields.io/github/package-json/v/discordjs/discord.js?label=discord.js&style=for-the-badge"></a>
   <a href="#"><img draggable="false" src="https://img.shields.io/github/license/Interittus13/swiftbot?style=for-the-badge"></a>
   <br>
-</p>
+</p> 
 
-<!-- Invite Button -->
+### Swift is a multi-Purpose bot built on top of [Klasa Pieces](https://github.com/dirigeants/klasa-pieces/), for your server with features like  moderation, auto-moderation, social aspects, fun commands and many more.
+
 <a href="https://discordapp.com/oauth2/authorize?client_id=3469906624923658&permissions=1544023286&scope=bot" title="Invite the bot!">
   <p align="center">
     <img width="200px" draggable="false" src="https://cdn.discordapp.com/attachments/464062103599185920/652175646646206495/invite.png">
   </p>
 </a>
 
-<!-- Introduction -->
-<h3 align="center">Swift is a multi-Purpose bot for your server with features like<br>moderation, auto-moderation, social aspects, fun commands and many more.</h3>
+Bot Features
+------------
 
-<!-- Features -->
-<h2 align="center">Bot Features</h2>
-<p align="center">
-• <b>Announcements</b> - Customizable join/leave/banned, optional PM.<br>
-• <b>Moderation</b> - Moderation with Mod log, warnings, timed mutes/bans.<br>
-• <b>Auto Moderation</b> - Auto delete server invites, urls, excessive CAPS, emote spam, mention spam.<br>
-• <b>Social Economy</b> - Level up by participating in chats, view Profile/Rank.<br>
-• <b>Server Log</b> - View what happend in your server behind you through an in depth server event log.<br>
-• <b>Auto Roles</b> - When a new member joins a roles is assigned to them automatically.<br>
-• <b>AFK</b> - Post an AFK status when mentioned in chat.<br>
-• Easy to use.<br>
-• Active Development.
-</p>
+• **Announcements** - Customizable join/leave/banned, optional PM.  
+• **Moderation** - Moderation with Mod log, warnings, timed mutes/bans.  
+• **Auto Moderation** - Auto delete server invites, urls, excessive CAPS, emote spam, mention spam.  
+• **Social Economy** - Level up by participating in chats, view Profile/Rank.  
+• **Server Log** - View what happend in your server behind you through an in depth server event log.  
+• **Auto Roles** - When a new member joins a roles is assigned to them automatically.  
+• **AFK** - Post an AFK status when mentioned in chat.  
+• Easy to use.  
+• ~~Active Development.~~
 
-<!-- Branding -->
-<h2 align="center">Branding Guidelines</h2>
-<p align="center">Branding Guidelines Coming Soon!</p>
+Need Help?
+----------
+[discord.gg/](https://discord.gg "Join the Discord Server.") or \_Interittus13\_#1504
 
-<!-- Contact Information -->
-<h2 align="center">Need Help?</h2>
+* * *
 
-<h3 align="center">Discord</h3>
-<p align="center"><a href="https://discord.gg" title="Join the Discord Server.">discord.gg/</a> or _Interittus13_#1504</p>
-<hr>
-
-<p align="center">
-  <b>Bot by _Interittus13_#1504.</b>
-</p>
+**Bot by \_Interittus13\_#1504.**
