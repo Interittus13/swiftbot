@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+#env file
+.env
+
+# npm lock file
+package-lock.json
+
+# VSCode User Data
+.vscode
