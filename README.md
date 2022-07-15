@@ -9,7 +9,7 @@
 </p>
 
 <!-- Invite Button -->
-<a href="https://discordapp.com/oauth2/authorize?client_id=346999806624923658&permissions=1544023286&scope=bot" title="Invite the bot!">
+<a href="https://discordapp.com/oauth2/authorize?client_id=3469906624923658&permissions=1544023286&scope=bot" title="Invite the bot!">
   <p align="center">
     <img width="200px" draggable="false" src="https://cdn.discordapp.com/attachments/464062103599185920/652175646646206495/invite.png">
   </p>
