@@ -16,7 +16,7 @@
 </a>
 
 <!-- Introduction -->
-<h3 align="center">Swift is a multi-Purpose bot for your server with features like<br>moderation, auto-moderation, social aspects, NSFW commands, fun commands and many more.</h3>
+<h3 align="center">Swift is a multi-Purpose bot for your server with features like<br>moderation, auto-moderation, social aspects, fun commands and many more.</h3>
 
 <!-- Features -->
 <h2 align="center">Bot Features</h2>
